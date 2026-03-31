@@ -1,4 +1,5 @@
 <x-layout><br><br><br><br>
-    <h1>About us section</h1>
+
+    <h1>Service section</h1>
 
 </x-layout>
